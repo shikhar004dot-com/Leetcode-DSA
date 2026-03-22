@@ -17,6 +17,7 @@ Leetcode solution using java ( DSA).
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
