@@ -27,6 +27,7 @@ Leetcode solution using java ( DSA).
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
 ## Math
@@ -57,4 +58,8 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0476-number-complement) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
