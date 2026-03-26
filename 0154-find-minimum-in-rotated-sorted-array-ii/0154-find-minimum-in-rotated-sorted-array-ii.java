@@ -1,0 +1,22 @@
+class Solution {
+    public int findMin(int[] arr) {
+        Arrays.sort(arr);
+        int left=0;
+        int right=arr.length-1;
+        while(left<right){
+            int mid=(right+left)/2;
+            if(arr[mid]>arr[right]){
+               left=mid+1;
+
+            }
+            else if(arr[mid]==arr[right]){
+                right--;
+            }
+            else{
+                right=mid;
+
+            }
+        }
+        return arr[left];
+    }
+}
