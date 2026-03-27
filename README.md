@@ -24,6 +24,7 @@ Leetcode solution using java ( DSA).
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 ## Array
@@ -32,6 +33,7 @@ Leetcode solution using java ( DSA).
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
+| [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +77,12 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
