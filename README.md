@@ -66,6 +66,7 @@ Leetcode solution using java ( DSA).
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0476-number-complement) |
 ## Binary Search
 |  |
