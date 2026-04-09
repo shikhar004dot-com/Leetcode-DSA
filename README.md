@@ -21,6 +21,7 @@ Leetcode solution using java ( DSA).
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
@@ -33,6 +34,7 @@ Leetcode solution using java ( DSA).
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0046-permutations) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
