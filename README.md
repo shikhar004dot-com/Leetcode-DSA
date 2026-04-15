@@ -32,6 +32,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
@@ -108,6 +109,7 @@ Leetcode solution using java ( DSA).
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [3790-smallest-all-ones-multiple](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Queue
 |  |
@@ -137,5 +139,6 @@ Leetcode solution using java ( DSA).
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
