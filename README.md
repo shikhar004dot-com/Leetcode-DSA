@@ -35,6 +35,7 @@ Leetcode solution using java ( DSA).
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -133,4 +134,8 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
