@@ -51,6 +51,7 @@ Leetcode solution using java ( DSA).
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2057-smallest-index-with-equal-value](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2057-smallest-index-with-equal-value) |
 ## Math
 |  |
 | ------- |
