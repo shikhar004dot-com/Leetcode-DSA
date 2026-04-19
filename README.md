@@ -45,6 +45,7 @@ Leetcode solution using java ( DSA).
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
@@ -108,6 +109,7 @@ Leetcode solution using java ( DSA).
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
@@ -144,4 +146,8 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
