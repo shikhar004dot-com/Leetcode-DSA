@@ -58,6 +58,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
+| [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -139,6 +140,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
@@ -148,6 +150,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
 |  |
