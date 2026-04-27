@@ -12,6 +12,7 @@ Leetcode solution using java ( DSA).
 | [0131-palindrome-partitioning](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -147,6 +148,7 @@ Leetcode solution using java ( DSA).
 | [0020-valid-parentheses](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
