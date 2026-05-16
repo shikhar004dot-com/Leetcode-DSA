@@ -108,6 +108,7 @@ Leetcode solution using java ( DSA).
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -160,6 +161,7 @@ Leetcode solution using java ( DSA).
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
