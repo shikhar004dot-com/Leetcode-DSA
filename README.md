@@ -63,6 +63,7 @@ Leetcode solution using java ( DSA).
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -128,10 +129,12 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
+| [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3790-smallest-all-ones-multiple](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Queue
 |  |
