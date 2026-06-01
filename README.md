@@ -12,6 +12,7 @@ Leetcode solution using java ( DSA).
 | [0131-palindrome-partitioning](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
+| [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -156,6 +157,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3790-smallest-all-ones-multiple](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Queue
