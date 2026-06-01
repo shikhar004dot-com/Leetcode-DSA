@@ -66,6 +66,7 @@ Leetcode solution using java ( DSA).
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
@@ -138,6 +139,7 @@ Leetcode solution using java ( DSA).
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
@@ -147,6 +149,7 @@ Leetcode solution using java ( DSA).
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
