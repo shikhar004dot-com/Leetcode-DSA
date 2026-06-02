@@ -80,6 +80,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
+| [0319-bulb-switcher](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
@@ -229,4 +230,8 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
