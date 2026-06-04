@@ -28,6 +28,7 @@ Leetcode solution using java ( DSA).
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,12 +93,14 @@ Leetcode solution using java ( DSA).
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3790-smallest-all-ones-multiple](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
