@@ -53,6 +53,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0046-permutations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0046-permutations) |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
@@ -167,6 +168,7 @@ Leetcode solution using java ( DSA).
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
@@ -241,4 +243,8 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0319-bulb-switcher) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
