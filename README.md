@@ -47,6 +47,7 @@ Leetcode solution using java ( DSA).
 | [0696-count-binary-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ Leetcode solution using java ( DSA).
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -151,6 +153,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0605-can-place-flowers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -162,6 +165,7 @@ Leetcode solution using java ( DSA).
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
