@@ -79,6 +79,7 @@ Leetcode solution using java ( DSA).
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Leetcode solution using java ( DSA).
 | [0476-number-complement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0476-number-complement) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
 | [2595-number-of-even-and-odd-bits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -252,4 +254,8 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
