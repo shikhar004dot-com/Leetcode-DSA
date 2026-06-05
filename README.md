@@ -133,6 +133,7 @@ Leetcode solution using java ( DSA).
 | [0461-hamming-distance](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0476-number-complement) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
+| [2595-number-of-even-and-odd-bits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Binary Search
 |  |
 | ------- |
