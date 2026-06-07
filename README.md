@@ -65,6 +65,7 @@ Leetcode solution using java ( DSA).
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -184,6 +185,7 @@ Leetcode solution using java ( DSA).
 | [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3790-smallest-all-ones-multiple](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Queue
