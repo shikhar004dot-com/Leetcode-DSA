@@ -49,6 +49,7 @@ Leetcode solution using java ( DSA).
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Leetcode solution using java ( DSA).
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -270,5 +272,6 @@ Leetcode solution using java ( DSA).
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
