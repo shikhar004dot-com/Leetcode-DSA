@@ -87,6 +87,7 @@ Leetcode solution using java ( DSA).
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Leetcode solution using java ( DSA).
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2680-maximum-or](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2680-maximum-or) |
+| [3689-maximum-total-subarray-value-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
