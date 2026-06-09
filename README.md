@@ -58,6 +58,7 @@ Leetcode solution using java ( DSA).
 | [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -177,6 +178,7 @@ Leetcode solution using java ( DSA).
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
@@ -190,6 +192,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -235,6 +238,7 @@ Leetcode solution using java ( DSA).
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 ## Trie
