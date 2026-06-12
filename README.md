@@ -73,6 +73,7 @@ Leetcode solution using java ( DSA).
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -268,6 +269,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2680-maximum-or](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2680-maximum-or) |
 ## Brainteaser
