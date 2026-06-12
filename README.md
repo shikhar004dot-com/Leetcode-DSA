@@ -35,6 +35,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0046-permutations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Two Pointers
@@ -55,6 +56,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -142,6 +144,7 @@ Leetcode solution using java ( DSA).
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0078-subsets) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0476-number-complement) |
