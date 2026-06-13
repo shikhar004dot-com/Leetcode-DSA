@@ -96,6 +96,7 @@ Leetcode solution using java ( DSA).
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -211,6 +212,7 @@ Leetcode solution using java ( DSA).
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3790-smallest-all-ones-multiple](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
 ## Queue
 |  |
@@ -255,6 +257,7 @@ Leetcode solution using java ( DSA).
 | [0229-majority-element-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
