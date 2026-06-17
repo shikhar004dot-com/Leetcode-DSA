@@ -8,6 +8,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -109,6 +110,7 @@ Leetcode solution using java ( DSA).
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0319-bulb-switcher) |
@@ -307,6 +309,7 @@ Leetcode solution using java ( DSA).
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
