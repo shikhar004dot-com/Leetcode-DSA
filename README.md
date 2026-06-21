@@ -69,6 +69,7 @@ Leetcode solution using java ( DSA).
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0229-majority-element-ii) |
@@ -193,6 +194,7 @@ Leetcode solution using java ( DSA).
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
