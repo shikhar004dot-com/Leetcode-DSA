@@ -19,6 +19,7 @@ Leetcode solution using java ( DSA).
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
+| [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2129-capitalize-the-title) |
@@ -233,6 +234,7 @@ Leetcode solution using java ( DSA).
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -283,6 +285,7 @@ Leetcode solution using java ( DSA).
 | [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Trie
