@@ -90,6 +90,7 @@ Leetcode solution using java ( DSA).
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
