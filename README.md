@@ -83,6 +83,7 @@ Leetcode solution using java ( DSA).
 | [0605-can-place-flowers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -248,6 +249,7 @@ Leetcode solution using java ( DSA).
 | [0229-majority-element-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -264,6 +266,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
