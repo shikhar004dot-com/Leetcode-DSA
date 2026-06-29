@@ -54,6 +54,7 @@ Leetcode solution using java ( DSA).
 | [0005-longest-palindromic-substring](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
@@ -205,6 +206,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -284,6 +286,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0020-valid-parentheses](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -299,6 +302,7 @@ Leetcode solution using java ( DSA).
 | [0021-merge-two-sorted-lists](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
