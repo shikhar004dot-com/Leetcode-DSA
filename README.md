@@ -207,6 +207,7 @@ Leetcode solution using java ( DSA).
 | [0021-merge-two-sorted-lists](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -303,6 +304,7 @@ Leetcode solution using java ( DSA).
 | [0024-swap-nodes-in-pairs](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
