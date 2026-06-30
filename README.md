@@ -117,6 +117,7 @@ Leetcode solution using java ( DSA).
 | [2680-maximum-or](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2680-maximum-or) |
 | [2683-neighboring-bitwise-xor](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2683-neighboring-bitwise-xor) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -193,6 +194,7 @@ Leetcode solution using java ( DSA).
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2680-maximum-or](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2680-maximum-or) |
 | [2683-neighboring-bitwise-xor](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2683-neighboring-bitwise-xor) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
