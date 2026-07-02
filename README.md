@@ -17,6 +17,7 @@ Leetcode solution using java ( DSA).
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
@@ -143,6 +144,7 @@ Leetcode solution using java ( DSA).
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
@@ -380,6 +382,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0043-multiply-strings) |
+| [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
