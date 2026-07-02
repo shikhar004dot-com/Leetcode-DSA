@@ -145,6 +145,7 @@ Leetcode solution using java ( DSA).
 | [0507-perfect-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
+| [0593-valid-square](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0593-valid-square) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
@@ -393,4 +394,8 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
