@@ -155,6 +155,7 @@ Leetcode solution using java ( DSA).
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [3099-harshad-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3099-harshad-number) |
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
