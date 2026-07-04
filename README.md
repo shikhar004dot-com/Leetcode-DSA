@@ -149,6 +149,7 @@ Leetcode solution using java ( DSA).
 | [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
 | [0593-valid-square](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0593-valid-square) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
+| [0754-reach-a-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0754-reach-a-number) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -213,6 +214,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
+| [0754-reach-a-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2594-minimum-time-to-repair-cars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2594-minimum-time-to-repair-cars) |
