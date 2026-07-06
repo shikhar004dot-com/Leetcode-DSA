@@ -33,6 +33,7 @@ Leetcode solution using java ( DSA).
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3612-process-string-with-special-operations-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3798-largest-even-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
