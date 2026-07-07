@@ -128,6 +128,7 @@ Leetcode solution using java ( DSA).
 | [2683-neighboring-bitwise-xor](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2683-neighboring-bitwise-xor) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -251,6 +252,7 @@ Leetcode solution using java ( DSA).
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2680-maximum-or](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2680-maximum-or) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
@@ -270,6 +272,7 @@ Leetcode solution using java ( DSA).
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
