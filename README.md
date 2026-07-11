@@ -101,6 +101,7 @@ Leetcode solution using java ( DSA).
 | [0908-smallest-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -292,6 +293,7 @@ Leetcode solution using java ( DSA).
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -311,6 +313,7 @@ Leetcode solution using java ( DSA).
 | [0076-minimum-window-substring](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -386,6 +389,7 @@ Leetcode solution using java ( DSA).
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
