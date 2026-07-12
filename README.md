@@ -120,6 +120,7 @@ Leetcode solution using java ( DSA).
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -230,6 +231,7 @@ Leetcode solution using java ( DSA).
 | [0754-reach-a-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Recursion
 |  |
@@ -280,6 +282,7 @@ Leetcode solution using java ( DSA).
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
