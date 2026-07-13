@@ -17,6 +17,7 @@ Leetcode solution using java ( DSA).
 | [0165-compare-version-numbers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0434-number-of-segments-in-a-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0592-fraction-addition-and-subtraction) |
