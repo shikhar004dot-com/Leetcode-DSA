@@ -97,6 +97,7 @@ Leetcode solution using java ( DSA).
 | [0518-coin-change-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
+| [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0908-smallest-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0908-smallest-range-i) |
@@ -340,6 +341,7 @@ Leetcode solution using java ( DSA).
 | [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
@@ -347,6 +349,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
