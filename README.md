@@ -43,6 +43,7 @@ Leetcode solution using java ( DSA).
 | [0005-longest-palindromic-substring](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0397-integer-replacement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
@@ -213,6 +214,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0078-subsets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0397-integer-replacement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0476-number-complement) |
@@ -246,11 +248,13 @@ Leetcode solution using java ( DSA).
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
