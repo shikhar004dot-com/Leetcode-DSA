@@ -186,6 +186,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
