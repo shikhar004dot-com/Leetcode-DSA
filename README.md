@@ -202,6 +202,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
 ## Breadth-First Search
@@ -349,6 +350,7 @@ Leetcode solution using java ( DSA).
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
@@ -447,8 +449,10 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
