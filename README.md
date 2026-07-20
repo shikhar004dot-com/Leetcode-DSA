@@ -109,6 +109,7 @@ Leetcode solution using java ( DSA).
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
@@ -217,6 +218,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Leetcode solution using java ( DSA).
 | [0043-multiply-strings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [1260-shift-2d-grid](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
