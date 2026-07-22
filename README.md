@@ -96,6 +96,7 @@ Leetcode solution using java ( DSA).
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0475-heaters) |
 | [0518-coin-change-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
@@ -241,6 +242,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0475-heaters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0754-reach-a-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
