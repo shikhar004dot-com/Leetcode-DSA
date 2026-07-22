@@ -225,6 +225,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0078-subsets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0461-hamming-distance) |
@@ -241,6 +242,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0475-heaters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
@@ -459,6 +461,7 @@ Leetcode solution using java ( DSA).
 | [0094-binary-tree-inorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -466,6 +469,7 @@ Leetcode solution using java ( DSA).
 | [0094-binary-tree-inorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
