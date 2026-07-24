@@ -204,6 +204,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -212,6 +213,7 @@ Leetcode solution using java ( DSA).
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
 ## Matrix
@@ -459,6 +461,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -467,6 +470,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
