@@ -182,6 +182,7 @@ Leetcode solution using java ( DSA).
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -309,6 +310,7 @@ Leetcode solution using java ( DSA).
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
