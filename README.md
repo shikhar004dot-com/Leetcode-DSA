@@ -99,6 +99,7 @@ Leetcode solution using java ( DSA).
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
@@ -165,6 +166,7 @@ Leetcode solution using java ( DSA).
 | [0537-complex-number-multiplication](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0593-valid-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
 | [0754-reach-a-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0754-reach-a-number) |
@@ -297,6 +299,7 @@ Leetcode solution using java ( DSA).
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0948-bag-of-tokens) |
