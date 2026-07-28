@@ -34,6 +34,7 @@ Leetcode solution using java ( DSA).
 | [2129-capitalize-the-title](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2129-capitalize-the-title) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
@@ -314,6 +315,7 @@ Leetcode solution using java ( DSA).
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -400,6 +402,7 @@ Leetcode solution using java ( DSA).
 | [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
