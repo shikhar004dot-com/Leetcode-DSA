@@ -48,6 +48,7 @@ Leetcode solution using java ( DSA).
 | [0509-fibonacci-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0877-stone-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
@@ -103,6 +104,7 @@ Leetcode solution using java ( DSA).
 | [0628-maximum-product-of-three-numbers](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0908-smallest-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
@@ -172,6 +174,7 @@ Leetcode solution using java ( DSA).
 | [0670-maximum-swap](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
 | [0754-reach-a-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0754-reach-a-number) |
+| [0877-stone-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
@@ -497,4 +500,8 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
