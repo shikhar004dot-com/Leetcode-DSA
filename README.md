@@ -483,6 +483,7 @@ Leetcode solution using java ( DSA).
 | [0199-binary-tree-right-side-view](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -494,11 +495,13 @@ Leetcode solution using java ( DSA).
 | [0199-binary-tree-right-side-view](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Game Theory
 |  |
