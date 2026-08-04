@@ -118,6 +118,7 @@ Leetcode solution using java ( DSA).
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -314,6 +315,7 @@ Leetcode solution using java ( DSA).
 | [0948-bag-of-tokens](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -340,6 +342,7 @@ Leetcode solution using java ( DSA).
 | [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
