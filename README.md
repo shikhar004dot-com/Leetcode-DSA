@@ -217,6 +217,7 @@ Leetcode solution using java ( DSA).
 | [0144-binary-tree-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0672-bulb-switcher-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0672-bulb-switcher-ii) |
@@ -485,6 +486,7 @@ Leetcode solution using java ( DSA).
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
@@ -497,12 +499,14 @@ Leetcode solution using java ( DSA).
 | [0145-binary-tree-postorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
