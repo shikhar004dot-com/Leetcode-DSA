@@ -488,6 +488,7 @@ Leetcode solution using java ( DSA).
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -501,6 +502,7 @@ Leetcode solution using java ( DSA).
 | [0222-count-complete-tree-nodes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -508,6 +510,7 @@ Leetcode solution using java ( DSA).
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
 ## Game Theory
