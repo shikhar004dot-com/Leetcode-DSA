@@ -114,6 +114,7 @@ Leetcode solution using java ( DSA).
 | [0948-bag-of-tokens](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -389,6 +390,7 @@ Leetcode solution using java ( DSA).
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
@@ -397,6 +399,7 @@ Leetcode solution using java ( DSA).
 | [0085-maximal-rectangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -497,6 +500,7 @@ Leetcode solution using java ( DSA).
 | [0450-delete-node-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -511,6 +515,7 @@ Leetcode solution using java ( DSA).
 | [0450-delete-node-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -519,6 +524,7 @@ Leetcode solution using java ( DSA).
 | [0450-delete-node-in-a-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Game Theory
 |  |
 | ------- |
