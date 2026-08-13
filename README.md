@@ -148,6 +148,7 @@ Leetcode solution using java ( DSA).
 | [2680-maximum-or](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2680-maximum-or) |
 | [2683-neighboring-bitwise-xor](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2683-neighboring-bitwise-xor) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
