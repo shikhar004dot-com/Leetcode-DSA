@@ -34,6 +34,7 @@ Leetcode solution using java ( DSA).
 | [2129-capitalize-the-title](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2129-capitalize-the-title) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3798-largest-even-number) |
@@ -355,6 +356,7 @@ Leetcode solution using java ( DSA).
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3790-smallest-all-ones-multiple) |
@@ -370,6 +372,7 @@ Leetcode solution using java ( DSA).
 | [0904-fruit-into-baskets](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
