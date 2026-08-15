@@ -157,6 +157,7 @@ Leetcode solution using java ( DSA).
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -262,6 +263,7 @@ Leetcode solution using java ( DSA).
 | [2683-neighboring-bitwise-xor](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2683-neighboring-bitwise-xor) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
