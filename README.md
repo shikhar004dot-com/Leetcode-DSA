@@ -152,6 +152,7 @@ Leetcode solution using java ( DSA).
 | [2784-check-if-array-is-good](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -487,6 +488,7 @@ Leetcode solution using java ( DSA).
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
