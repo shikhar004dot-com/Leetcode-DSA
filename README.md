@@ -171,6 +171,7 @@ Leetcode solution using java ( DSA).
 | [0172-factorial-trailing-zeroes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0319-bulb-switcher) |
+| [0372-super-pow](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0372-super-pow) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0507-perfect-number) |
@@ -446,6 +447,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -556,4 +558,12 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
