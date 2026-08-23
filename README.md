@@ -118,6 +118,7 @@ Leetcode solution using java ( DSA).
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -335,6 +336,7 @@ Leetcode solution using java ( DSA).
 | [0922-sort-array-by-parity-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -436,6 +438,7 @@ Leetcode solution using java ( DSA).
 | [0274-h-index](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -570,4 +573,8 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0372-super-pow) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
