@@ -28,6 +28,7 @@ Leetcode solution using java ( DSA).
 | [1154-day-of-the-year](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -193,6 +194,7 @@ Leetcode solution using java ( DSA).
 | [1390-four-divisors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3099-harshad-number) |
 | [3115-maximum-prime-difference](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3115-maximum-prime-difference) |
@@ -310,6 +312,7 @@ Leetcode solution using java ( DSA).
 | [1833-maximum-ice-cream-bars](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -550,6 +553,7 @@ Leetcode solution using java ( DSA).
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/1927-sum-game) |
 ## Quickselect
 |  |
 | ------- |
