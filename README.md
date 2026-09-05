@@ -166,6 +166,7 @@ Leetcode solution using java ( DSA).
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
+| [3904-smallest-stable-index-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -483,6 +484,7 @@ Leetcode solution using java ( DSA).
 | [2574-left-and-right-sum-differences](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2680-maximum-or](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/2680-maximum-or) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/shikhar004dot-com/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Brainteaser
 |  |
 | ------- |
